@@ -10,4 +10,4 @@
 - **Educational Content**: Focus on providing high-level educational content that solves actual buyer problems, rather than gatekeeping content with forms or sales pitches.
 
 ## My Analysis
-Chris Walker challenges the traditional SaaS marketing playbook. His shift toward focusing on 'Dark Social' and educating the market instead of just chasing clicks is essential for any modern B2B SaaS company aiming for sustainable long-term growth.
+Chris Walker challenges the traditional SaaS marketing playbook. His shift toward focusing on 'Dark Social' and educating the market instead of just chasing clicks is essential for any modern B2B SaaS company aiming for sustainable long-term growth
