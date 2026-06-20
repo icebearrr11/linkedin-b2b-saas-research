@@ -19,5 +19,5 @@ To collect, organize, and analyze high-signal content from 10 proven industry pr
 ## Current Progress
 - [x] Repository setup
 - [x] Experts list curation
-- [ ] Content collection (Ongoing)
+- [x] Content collection (3/10 experts analyzed)
 - [ ] Strategy analysis (Pending)
