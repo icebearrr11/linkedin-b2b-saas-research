@@ -16,6 +16,9 @@ To collect, organize, and analyze high-signal content from 10 proven industry pr
 2. **Collection**: Gathering recent high-signal content (posts and transcripts).
 3. **Analysis**: Extracting actionable frameworks and patterns from the collected data.
 
+## Why These Experts?
+These experts were selected because they are **active practitioners**—not just theorists. They are currently building in public and testing these strategies on their own LinkedIn profiles and for their B2B SaaS clients, providing battle-tested insights.
+
 ## Current Progress
 - [x] Repository setup
 - [x] Experts list curation
